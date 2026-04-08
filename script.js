@@ -253,9 +253,9 @@ document.addEventListener('DOMContentLoaded', () => {
 const conversationHistory = {
   'mr-sigma': {
     messages: [
-      { from: 'sigma', authorName: 'Mr_Sigma', text: "Salut ! Tu as vu la dernière mise à jour ?", time: '2026-04-02 22:14' },
-      { from: 'me', authorName: 'Vous', text: "Pas encore, je suis arrivez en retard", time: '2026-04-02 22:16' },
-      { from: 'sigma', authorName: 'Mr_Sigma', text: "Ok, dis-moi si tu veux qu'on teste ensemble.", time: '2026-04-02 22:17' }
+      { from: 'sigma', authorName: 'Mr_Sigma', text: "Par contre...\nNe pas avoir Discord en 2026...\nMe faire codé en plusieurs nuit blanche...", time: '2026-04-02 22:14' },
+      { from: 'me', authorName: 'Vous', text: "La honte 🫵😂", time: '2026-04-02 22:16' },
+      { from: 'sigma', authorName: 'Mr_Sigma', text: "Et GRATUITEMENT......", time: '2026-04-02 22:17' }
     ],
     older: [
       { from: 'sigma', authorName: 'Mr_Sigma', text: "Tu as vu le message du service communication ? Ils disent qu’un “canal externe” a été réactivé cette nuit.\nJe croyais que ce genre d’accès était bloqué depuis la migration.", time: '2026-03-30 22:10' },
