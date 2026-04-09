@@ -1,6 +1,8 @@
 # 🌐 Groupe Discord - E.P.I.P.B
 
-Welcome to the **Discord Clone** project! This project aims to replicate the look and feel of Discord using HTML, CSS, and JavaScript. It is fully responsive and includes many animations to enhance the user experience.
+Bienvenue dans la conversation de l'E.P.I.P.B ! Ce projet vise à stalker les membres (fictif) de l'.E.P.I.P.B et de trouver des indices sur un certains " M ".
+
+*Toutes ressemblance à un organisme ou à des individus est totalement du pure hasard.**
 
 ## 📋 Salons Intéractives
 
@@ -14,26 +16,26 @@ Welcome to the **Discord Clone** project! This project aims to replicate the loo
 
 ## ✨ Features
 
-- **Responsive Design**: Works seamlessly on desktops, tablets, and mobile devices.
-- **User Interface**: Clean and intuitive UI similar to Discord.
-- **Animations**: Smooth and engaging animations for various interactions.
-- **Channel Navigation**: Sidebar navigation for different channels.
-- **Single Page**: All content is available on a single page without messaging capability.
+- **Design Responsive**: Fonctionne parfaitement sur ordinateur.
+- **UI**: UI propre et intuitive, similaire à Discord..
+- **Animations**: Animations fluides et agréables pour différentes interactions.
+- **Navigation Channel**:  Barre latérale pour accéder aux différents canaux.
+- **Single Page**:Certains contenu est disponible, avec fonctionnalité de messagerie..
 
-## 🛠 Technologies Used
+## 🛠 Technologies Utilisées
 
-- **HTML5**: For structuring the web pages.
-- **CSS3**: For styling and animations.
-- **JavaScript**: For interactivity and dynamic behavior.
+- **HTML5**: Pour la structuration de la page web.
+- **CSS3**: Pour le style et l'animation.
+- **JavaScript**: Pour l'intéractiviter et comportement dynamique.
 
 ## 💡 Usage
 
-Stalker les différents salon des membres de l'E.P.I.P.B. Cherchez 
+Stalker les différents salons des membres de l'E.P.I.P.B. 
 
-## 📷 Screenshots
+## 😎 Credit
 
-![image](https://github.com/user-attachments/assets/6ac36c8d-c0d4-42e6-b0cd-92fa154ee21f)
-![image](https://github.com/user-attachments/assets/cbedd844-c0c8-4f68-9b01-c51433b56218)
-![image](https://github.com/user-attachments/assets/6022baf6-9d73-4227-9400-5747a7c916be)
+Merci à [AzaanUllah-Khan](https://github.com/AzaanUllah-Khan/Discord-UI-Clone) pour la base ❤️
+
+
 
 
